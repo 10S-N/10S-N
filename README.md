@@ -1,7 +1,7 @@
+## HI There
 
 
-<!--
-## Saranya Nandanavanam
+Saranya Nandanavanam
 Informatics, Human-Centered Data Science + CS Cert. + SDS Minor @ The University of Texas at Austin — B.S. Informatics (May 2029).
 
 I build full-stack web apps, backend APIs, and data-driven tooling.
